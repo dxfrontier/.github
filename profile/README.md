@@ -1,12 +1,11 @@
-## Hi there 👋
+# Hello, World! 👋
 
-<!--
+![dxfrontier](../images/dxfrontier_front_image.jpg)
 
-**Here are some ideas to get you started:**
+Strategy & technology combined
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+**dx frontier** is more than a company – we are your partner for sustainable, people-centered digital transformation. With technological excellence, strategic vision, and innovative solutions, we harness digital opportunities – efficiently, securely, and scalably.
+
+**Reduce** complexity. <br />
+**Increase** efficiency. <br />
+**Shape** the future.
